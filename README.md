@@ -3,7 +3,7 @@
 
 
 # LES MILLS On Demand Visual Gamification x AUT R&D 2020
-This repo contains the research and prototypes for the Les Mills On Demand (LMOD) Gamification project. This project was completed by the AUT Research and Development team 2020.
+A short protoype to demonstrate pose estimation technology using JavaScript, run in the browser.
 
 ## Getting Started
 
